@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "474356557138",
+    "firebase_url": "https://jelajah-kota-jalur.firebaseio.com",
+    "project_id": "jelajah-kota-jalur",
+    "storage_bucket": "jelajah-kota-jalur.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474356557138:android:0911e46fb1735d63",
+        "android_client_info": {
+          "package_name": "com.babe.jelah_kota_jalur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474356557138-1fbaaadbkdldaloajij3mfrmj7gg13m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQe7MMwpZOT1Ncb25sgHzk2k0bqKsNvjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474356557138-1fbaaadbkdldaloajij3mfrmj7gg13m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474356557138:android:3af0ecf5671c7167",
+        "android_client_info": {
+          "package_name": "com.babe.jelajahkotajalur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474356557138-1fbaaadbkdldaloajij3mfrmj7gg13m7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQe7MMwpZOT1Ncb25sgHzk2k0bqKsNvjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474356557138-1fbaaadbkdldaloajij3mfrmj7gg13m7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
